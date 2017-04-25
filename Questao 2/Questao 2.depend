@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1492564675 source:c:\users\user\documents\ufpb\lp1\c++\roteiro 8\questao 2\main.cpp
+	<iostream>
+	"Endereco.h"
+
+1492564632 source:c:\users\user\documents\ufpb\lp1\c++\roteiro 8\questao 2\src\endereco.cpp
+	"Endereco.h"
+
+1492564624 c:\users\user\documents\ufpb\lp1\c++\roteiro 8\questao 2\include\endereco.h
+	<string>
+
+1492565076 source:c:\users\user\documents\ufpb\lp1\c++\roteiro 8\questao 2\src\imovel.cpp
+	"Imovel.h"
+
+1492565076 c:\users\user\documents\ufpb\lp1\c++\roteiro 8\questao 2\include\imovel.h
+	"Endereco.h"
+	<string>
+
+1492571450 source:c:\users\user\documents\ufpb\lp1\c++\roteiro 8\questao 2\src\terreno.cpp
+	"Terreno.h"
+
+1492572386 c:\users\user\documents\ufpb\lp1\c++\roteiro 8\questao 2\include\terreno.h
+	"Imovel.h"
+
+1492571858 source:c:\users\user\documents\ufpb\lp1\c++\roteiro 8\questao 2\src\apartamento.cpp
+	"Apartamento.h"
+
+1492572411 c:\users\user\documents\ufpb\lp1\c++\roteiro 8\questao 2\include\apartamento.h
+	"Imovel.h"
+	<string>
+
+1492572314 source:c:\users\user\documents\ufpb\lp1\c++\roteiro 8\questao 2\src\casa.cpp
+	"Casa.h"
+
+1492572411 c:\users\user\documents\ufpb\lp1\c++\roteiro 8\questao 2\include\casa.h
+	"Imovel.h"
+
