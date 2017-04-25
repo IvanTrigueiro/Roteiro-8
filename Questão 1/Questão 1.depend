@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1492518644 source:c:\users\aluno\desktop\roteiro 8\questão 1\main.cpp
+	<iostream>
+	"IConta.h"
+	"Conta.h"
+	"ContaEspecial.h"
+
+1492515635 source:c:\users\aluno\desktop\roteiro 8\questão 1\src\iconta.cpp
+	"IConta.h"
+
+1492515642 c:\users\aluno\desktop\roteiro 8\questão 1\include\iconta.h
+
+1492517833 source:c:\users\aluno\desktop\roteiro 8\questão 1\src\conta.cpp
+	"Conta.h"
+	<iostream>
+
+1492518373 c:\users\aluno\desktop\roteiro 8\questão 1\include\conta.h
+	"IConta.h"
+	<string>
+
+1492518608 source:c:\users\aluno\desktop\roteiro 8\questão 1\src\contaespecial.cpp
+	"ContaEspecial.h"
+
+1492518373 c:\users\aluno\desktop\roteiro 8\questão 1\include\contaespecial.h
+	"Conta.h"
+
